@@ -1,0 +1,7 @@
+source "http://ruby.taobao.org/"
+gem "sinatra", ">= 1.4.3"
+gem "slim"
+gem "sinatra-contrib"
+gem "thin"
+gem "bson_ext"
+gem "mongo"
